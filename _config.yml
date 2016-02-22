@@ -1,4 +1,4 @@
-name: BackyardSaterdays
+name: BackyardSaturdays
 favicon: null
 layout_spectrum: 0.91767
 typography_spectrum: 0.619895315496251
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.375
   lightness: 0.6159274510573596
   saturation: 0.8273821440525353
-  rhythmicContrast: 0.8374872277490795
+  rhythmicContrast: 0.75
 purpose: []
