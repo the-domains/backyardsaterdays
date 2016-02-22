@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Backyard Saterdays]]></title>
         <description><![CDATA[Backyard Saterdays]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://backyardsaterdays.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 21:07:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 21:52:46 GMT</lastBuildDate>
+        <atom:link href="http://backyardsaterdays.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Swinging Free</p>]]></description>
-            <link>undefined02b2976c-e099-4a56-8fb3-bd6023c0af4c/index.html</link>
+            <link>http://backyardsaterdays.com/02b2976c-e099-4a56-8fb3-bd6023c0af4c/index.html</link>
             <guid isPermaLink="false">02b2976c-e099-4a56-8fb3-bd6023c0af4c</guid>
-            <pubDate>Mon, 22 Feb 2016 21:07:26 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 21:52:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
